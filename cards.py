@@ -9,5 +9,6 @@ class Card:
 c = Card("A", "hearts")
 c1 = Card("10", "Diamonds")
 c2 = Card("K", "Spades")
+c3 = Card("J", "Joker")
 
-print(c,c1,c2)
+print(c,c1,c2,c3)
